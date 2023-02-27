@@ -1,6 +1,6 @@
 Hola que tal? todo bien?
 <<<<<<< HEAD
-que te importa
+que te importa, todo bien
 =======
 
 >>>>>>> 84c38d38a23d0a4f5cd7a4c4758172f6ba08a9c9
