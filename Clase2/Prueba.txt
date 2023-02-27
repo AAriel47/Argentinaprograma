@@ -1,7 +1,7 @@
 Hola que tal? todo bien?
 <<<<<<< HEAD
 <<<<<<< HEAD
-que te importa, todo bien, o todo malkdkdkdkdk
+que te importa, todo bien, o todo malkdkdkdkdk no me digas
 =======
 que te importa, todo bien, o todo mal y qye
 >>>>>>> 6764fd23291b4ba6a6e1d107f8ff0b1d1568ffe1
