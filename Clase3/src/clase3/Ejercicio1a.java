@@ -44,7 +44,7 @@ public class Ejercicio1a {
 				}
 		}
 		System.out.println("Adios, gracias por participar");
-
+		teclado.close();
 	}
 
 }

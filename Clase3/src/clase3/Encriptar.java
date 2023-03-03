@@ -20,7 +20,7 @@ public class Encriptar {
 			teclado.nextLine();
 		}
 		System.out.println("Ingrese el mensaje a codificar, solo letras y espacios:");
-		mensaje = teclado.nextLine();
+		mensaje = teclado.nextLine().toLowerCase();
 		System.out.println("Ingrese el Número de desplazamiento: 'entre 1 y 5':");
 		desplazamiento = teclado.nextInt();
 		largomensa = mensaje.length();
@@ -56,7 +56,7 @@ public class Encriptar {
 		/*Decodificación*/
 		
 		String[] decodificar = new String[codi.length];
-		System.out.println("Ingrese la clave de Decodificación: 'entre 1 y 5':");
+		System.out.println("Ingrese la clave de Decodificación, el Número de desplazamiento: 'entre 1 y 5':");
 		desplazamiento = teclado.nextInt();
 		i = 0;
 		largomensa = codi.length;
@@ -99,5 +99,6 @@ public class Encriptar {
 	
 	}
 	System.out.println("Gracios por participar");
+	teclado.close();
 	}
 }

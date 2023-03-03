@@ -1,6 +1,6 @@
 package clase3;
 import java.util.Scanner;
-import java.util.Arrays;
+//import java.util.Arrays;
 public class Ejercicio1c {
 	static int[] numeros = new int[3];
 	static int[] numero = new int[3];
